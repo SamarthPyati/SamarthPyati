@@ -17,13 +17,11 @@
 
 </div>
 
----
 
 ## **Professional Summary**
 
 Computer Science student with a strong foundation in machine learning, passionate about building intelligent, high-performance systems. Internship experience at KPMG, Jio Platforms, and Visist AI has provided deep expertise in the full AI project lifecycle—from data annotation and pipeline development to model fine-tuning and QA framework implementation. Combines advanced ML skills (Deep Learning, RAG, Computer Vision) with proficiency in low-level optimization.
 
----
 
 ## **About Me**
 
@@ -34,7 +32,6 @@ I'm **Samarth Pyati**, a Machine Learning Engineer specializing in building inte
     - Focused on building high-performance AI systems that scale
     - Working with C/C++ and Rust for performance-critical applications
 
----
 
 ## **Professional Journey**
 
@@ -58,7 +55,6 @@ I'm **Samarth Pyati**, a Machine Learning Engineer specializing in building inte
 *   Enhanced audio diarization precision, reducing post-processing time by 30%.
 *   Contributed to language model development for Indian language transcription.
 
----
 
 ## **Tech Stack & Tools**
 
@@ -134,7 +130,6 @@ I'm **Samarth Pyati**, a Machine Learning Engineer specializing in building inte
 
 </div>
 
----
 
 ## **Featured Projects**
 
@@ -178,7 +173,6 @@ Intelligent loan approval system using Random Forest and Neural Networks
 Complete blogging platform with authentication and database integration
 * **Tech Stack:** Python, Flask, SQLAlchemy, PostgreSQL, Bootstrap
 
----
 
 ## **What Drives Me**
 
@@ -186,7 +180,6 @@ I focus on building technology that delivers measurable results. Whether achievi
 
 My work spans from enterprise RAG systems processing large document sets to memory allocators optimized for performance. I believe in creating AI systems that are intelligent, fast, scalable, and production-ready. Every optimization and model I develop is driven by real-world impact.
 
----
 
 <!-- <div align="center">
 
@@ -210,5 +203,3 @@ I'm open to collaborating on innovative ML projects, systems optimization, and n
 
 * **Email:** samarthpyati@gmail.com
 * **Open to:** ML Research, Systems Engineering, and Tech Innovation opportunities
-
----
