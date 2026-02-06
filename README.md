@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&height=120&lines=Machine+Learning+Engineer;Systems+Programming+Enthusiast;Deep+Learning+Specialist;Computer+Vision+Expert;RAG+Architecture+Developer;Performance+Optimizer;Builder;Innovator" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?duration=2000?font=Fira+Code&weight=600&size=40&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&height=120&lines=Machine+Learning+Engineer;Systems+Programming+Enthusiast;Deep+Learning+Specialist;Computer+Vision+Expert;RAG+Architecture+Developer;Performance+Optimizer;Builder;Innovator" alt="Typing SVG" />
   
 </div>
 
@@ -33,7 +33,7 @@ I'm **Samarth Pyati**, a Machine Learning Engineer specializing in building inte
     - Working with C/C++ and Rust for performance-critical applications
 
 
-## **Professional Journey**
+<!-- ## **Professional Journey**
 
 ### **Machine Learning Intern @ [KPMG India](https://www.kpmg.com/in/en/home.html)** *(July 2025 - Present)*
 **Building enterprise-grade multimodal Agentic RAG for document intelligence**
@@ -53,7 +53,7 @@ I'm **Samarth Pyati**, a Machine Learning Engineer specializing in building inte
 **Optimized audio processing pipelines for Indian languages**
 *   Optimized RTT and audio diarization pipelines, achieving 500% speed increase via multiprocessing and CUDA.
 *   Enhanced audio diarization precision, reducing post-processing time by 30%.
-*   Contributed to language model development for Indian language transcription.
+*   Contributed to language model development for Indian language transcription. -->
 
 
 ## **Tech Stack & Tools**
@@ -130,7 +130,7 @@ I'm **Samarth Pyati**, a Machine Learning Engineer specializing in building inte
 
 </div>
 
-
+<!-- 
 ## **Featured Projects**
 
 ### **[MoleculeGNN](https://github.com/SamarthPyati/MoleculeGNN)** - Graph Neural Networks for Molecular Property Prediction
@@ -171,7 +171,7 @@ Intelligent loan approval system using Random Forest and Neural Networks
 
 ### **[Blogify](https://github.com/SamarthPyati/Blogify)** - Full-Stack Blogging Platform
 Complete blogging platform with authentication and database integration
-* **Tech Stack:** Python, Flask, SQLAlchemy, PostgreSQL, Bootstrap
+* **Tech Stack:** Python, Flask, SQLAlchemy, PostgreSQL, Bootstrap -->
 
 
 ## **What Drives Me**
