@@ -13,7 +13,8 @@
 [![Email](https://img.shields.io/badge/Email-samarthpyati%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samarthpyati@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-SamarthPyati-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SamarthPyati)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samarth-pyati)
-[![Location](https://img.shields.io/badge/Location-Bengaluru%2C%20India-green?style=for-the-badge&logo=google-maps&logoColor=white)](https://www.google.com/maps/place/Bengaluru)
+
+<!-- [![Location](https://img.shields.io/badge/Location-Bengaluru%2C%20India-green?style=for-the-badge&logo=google-maps&logoColor=white)](https://www.google.com/maps/place/Bengaluru) -->
 
 </div>
 
@@ -181,7 +182,7 @@ I focus on building technology that delivers measurable results. Whether achievi
 My work spans from enterprise RAG systems processing large document sets to memory allocators optimized for performance. I believe in creating AI systems that are intelligent, fast, scalable, and production-ready. Every optimization and model I develop is driven by real-world impact.
 
 
-<!-- <div align="center">
+<div align="center">
 
 ## **GitHub Stats**
 
@@ -194,8 +195,6 @@ My work spans from enterprise RAG systems processing large document sets to memo
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SamarthPyati&theme=tokyo-night&hide_border=true&area=true&card_width=705)
 
 </div>
-
---- -->
 
 ## **Let's Connect**
 
